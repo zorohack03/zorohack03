@@ -6,27 +6,24 @@
        width="100%">
 </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zorohack03&label=Profile%20views&color=0e75b6&style=flat" alt="zorohack03" /> </p>
-
--  I **uncover flaws**, think strategically to create solution - blending deep learning,structed analysis
-
-<p align="left">
+<p>
+  <img src="https://komarev.com/ghpvc/?username=zorohack03&label=Profile%20views&color=0e75b6&style=flat" alt="zorohack03" />
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/zorohack"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zorohack" /></a></p><br><br>
+- I **uncover flaws**, think strategically to create solutions – blending deep learning and structured analysis
 
-<!-- GitHub Widgets and Badges -->
+<h3>Support:</h3>
+<p>
+  <a href="https://www.buymeacoffee.com/zorohack">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zorohack" />
+  </a>
+</p>
 
-<!-- GitHub stats -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zorohack03&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats"/>
+<!-- Stats + Languages Side by Side -->
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zorohack03&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
 
-<!-- GitHub top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zorohack03&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=zorohack03&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats" />
 
 </div>
-
-
-
