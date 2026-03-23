@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Muthra</h1>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=zorohack03&label=Profile%20views&color=0e75b6&style=flat" alt="zorohack03" />
-</p>
 
-- I **uncover flaws**, think strategically to create solutions – blending deep learning and structured analysis
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zorohack03&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" width="380">
 
-<h3>Support:</h3>
+I'm a cybersecurity enthusiast focused on identifying vulnerabilities and building practical security solutions.  
+I enjoy working on penetration testing, Linux internals, and developing tools that solve real-world security problems.
+
+🔍 Recent Work:
+- Contributed to **PEASS-ng (LinPEAS)** – added detection for hidden group access via `newgrp`
+- Built tools for stealth scanning, secure communication, and threat modeling
+
 <p>
   <a href="https://www.buymeacoffee.com/zorohack">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zorohack" />
+    <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
   </a>
 </p>
+📓 Learning & Exploring:
+- Web security, privilege escalation, and system internals  
+- Offensive + defensive security approaches  
 
-<!-- Stats + Languages Side by Side -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zorohack03&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+---
 
-  <img src="https://github-readme-stats.vercel.app/api?username=zorohack03&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats" />
-
-</div>
