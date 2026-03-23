@@ -18,5 +18,7 @@ I enjoy working on penetration testing, Linux internals, and developing tools th
 - Web security, privilege escalation, and system internals  
 - Offensive + defensive security approaches  
 
+![HTB Badge](https://app.hackthebox.com/public/users/2197914)
+
 ---
 
