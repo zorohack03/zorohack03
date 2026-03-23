@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm 0x4d</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zorohack03/Overview-essentials/main/git2.gif" 
-       alt="Git Demo" 
-       width="100%">
-</p>
-
+<h1 align="center">Hi 👋, I'm Muthra</h1>
 <p>
   <img src="https://komarev.com/ghpvc/?username=zorohack03&label=Profile%20views&color=0e75b6&style=flat" alt="zorohack03" />
 </p>
