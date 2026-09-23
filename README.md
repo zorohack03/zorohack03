@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muthra</h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zorohack03&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" width="380">
-
 I'm a cybersecurity enthusiast focused on identifying vulnerabilities and building practical security solutions.  
 I enjoy working on penetration testing, Linux internals, and developing tools that solve real-world security problems.
 
